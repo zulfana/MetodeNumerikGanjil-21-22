@@ -5,5 +5,5 @@ int(){
 	int x;
 	int y;
 	double f;
-	cout << "Hello World";
+	cout << "Hello World 2.0";
 }
